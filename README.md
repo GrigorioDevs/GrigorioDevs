@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=GrigorioDevs&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Grigorio;I'm+20+years+old;Currently+living+in+Brazil+-+SP;I+am+currently+Studyng+ADS+-+UNIP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Grigorio;I'm+20+years+old;Currently+living+in+Brazil+-+SP;I+am+currently+Studying+ADS+-+UNIP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Gustavo Grigorio GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorioDevs&show_icons=true&theme=tokyonight)
 <br/>
